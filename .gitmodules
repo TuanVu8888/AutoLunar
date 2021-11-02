@@ -1,0 +1,3 @@
+[submodule "autoLun"]
+	path = autoLun
+	url = https://github.com/TuanVu8888/AutoLunar.git
